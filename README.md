@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screen
-<img src="img/screenOne.png" width="300">
+<img src="img/screenOne.png" width="500">
+<img src="img/screenTwo.png" width="500">
 
 ## Available Scripts
 
